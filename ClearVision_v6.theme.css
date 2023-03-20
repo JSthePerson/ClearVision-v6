@@ -1,5 +1,5 @@
 /**
- * @name Theme Name
+ * @name My Theme
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -14,11 +14,11 @@
 :root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
-  --success-color: #AD74DE;
-  --danger-color: #982929;
+  --success-color: #D7A9FF;
+  --danger-color: #F56B6B;
   --url-color: var(--main-color);
   --background-image: url('https://marketplace.canva.com/EAFHm4JWsu8/1/0/1600w/canva-pink-landscape-desktop-wallpaper-HGxdJA_xIx0.jpg');
-  --background-shading: 71%;
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -28,9 +28,9 @@
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 2px;
+  --background-blur: 3px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg?size=626&ext=jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
